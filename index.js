@@ -1,4 +1,4 @@
-module.exports = function mapObject(obj, cb, sorted) {
+module.exports = function loopObject(obj, cb, sorted) {
   var keys = Object.keys(obj);
   if (sorted === true) {
     keys.sort();

@@ -1,5 +1,5 @@
 {
-  "name": "mapobject",
+  "name": "loopobject",
   "version": "1.0.0",
   "description": "just like forEach but for Object",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsisodiya/mapObject.git"
+    "url": "git+https://github.com/nsisodiya/loopObject.git"
   },
   "author": "Narendra Sisodiya <narendra@narendrasisodiya.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nsisodiya/mapObject/issues"
+    "url": "https://github.com/nsisodiya/loopObject/issues"
   },
-  "homepage": "https://github.com/nsisodiya/mapObject#readme"
+  "homepage": "https://github.com/nsisodiya/loopObject#readme"
 }
